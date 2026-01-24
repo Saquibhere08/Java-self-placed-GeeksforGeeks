@@ -16,55 +16,6 @@ The goal of this repo is to:
 
 ---
 
-## 📂 Repository Structure
-
-```
-Java-GFG-Course/
-│
-├── Basics/
-│   ├── HelloWorld.java
-│   ├── VariablesAndDataTypes.java
-│   └── Notes.md
-│
-├── ControlStatements/
-│   ├── IfElse.java
-│   ├── Loops.java
-│   └── Notes.md
-│
-├── Arrays/
-│   ├── OneDArray.java
-│   ├── TwoDArray.java
-│   └── Notes.md
-│
-├── Strings/
-│   ├── StringMethods.java
-│   └── Notes.md
-│
-├── OOP/
-│   ├── ClassesAndObjects.java
-│   ├── Inheritance.java
-│   ├── Polymorphism.java
-│   └── Notes.md
-│
-├── ExceptionHandling/
-│   ├── TryCatch.java
-│   └── Notes.md
-│
-├── Collections/
-│   ├── ArrayListExample.java
-│   ├── HashMapExample.java
-│   └── Notes.md
-│
-├── PracticeProblems/
-│   ├── Problem1.java
-│   ├── Problem2.java
-│   └── README.md
-│
-└── README.md
-```
-
----
-
 ## 📝 Notes Format
 
 Each topic folder may contain a `Notes.md` file with:
